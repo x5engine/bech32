@@ -1,7 +1,6 @@
 // Copyright 2017-2020 @polkadot/util-crypto authors & contributors
 // This software may be modified and distributed under the terms
 // of the Apache-2.0 license. See the LICENSE file for details.
-// https://github.com/polkadot-js/common/tree/master/packages/util-crypto/src/address
 
 import checkAddress from './check';
 import checkAddressChecksum from './checkChecksum';
